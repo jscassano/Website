@@ -1,20 +1,13 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+title: "Julian Cassano"
+subtitle: "Behavioral ecologist, data scientist, honeybee enthusiast"
+description: My work is mainly focused on behavioral ecology with a strong emphasis on data analytics, mathematical modeling and data visualization. My current MS thesis seeks to understand evolutionary origins for phenotypic diversity inside a honeybee colony and broader relationships between behavior, physiology and life history traits in a social insect. I enjoy finding patterns in noisy, messy datasets and using multidimensional programming solutions to solve complex problems. I am also a fan of a healthy balance of outdoor activities, curating my indoor plants and traveling to exciting destinations. 
+image_left: false
 images:
-- img/revoir.jpg
+- headshot.jpg
 show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+show_social_links: true #Social media accounts
+text_align_left: true
 type: home
 ---
 
