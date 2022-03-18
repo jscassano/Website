@@ -6,8 +6,11 @@ image_left: false
 images:
 - home_pic.jpg
 show_action_link: true
+action_link: /about
 show_social_links: true #Social media accounts
 text_align_left: true
+action_label: "Wait, there's more..."
+action_type: text # text, button
 type: home
 ---
 
