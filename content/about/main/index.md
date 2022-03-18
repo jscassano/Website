@@ -14,6 +14,7 @@ intro: |
   
   I am currently a Masters student at in the [Graduate Degree Program in Ecology](https://ecology.colostate.edu/) at Colorado State University researching honeybees in the [Social Behavior Lab](https://socialbehaviorlab.colostate.edu/group-members/). This journey has allowed me to develop not only my quantitative research skills, but also allowed me to pursue passions such as founding a [nonprofit](http://eco-ed.org/our-team/) focused on cutting-edge community outreach programs and starting a functional beverage company with some of my best friends. 
   
+  
     <i class="fas fa-graduation-cap pr2"></i>MSc in Ecology  &#8729; 
     Colorado State University  &#8729;  Current
     
