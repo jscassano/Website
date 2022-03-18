@@ -8,6 +8,7 @@ show_intro: true
 intro:
 
     Hi!
+
     My name is Julian Cassano and I am behavioral ecologist at Colorado State University in Fort Collins, CO. My journey as an academic researcher began in 2015 as an undergraduate researcher in the [Nieh Lab](https://labs.biology.ucsd.edu/nieh/index.html) where I studied honeybee learning and memory. My passion for research only grew when I decided to spend my last leg of undergrad studying abroad in the pristine cloud forests of Costa Rica. 
     
     After graduating, I moved to Boulder, Colorado to join a team of environmental educators at [Wild Bear Nature Center](https://www.wildbear.org/), a nonprofit education center in the frontrange mountains of CO. It was here that I developed my love for communicating science  and although I loved getting paid to romp around the Rockies, grad school was soon calling my name. 
