@@ -1,66 +1,29 @@
 ---
-author: Eric Anderson
+title: Measuring Metabolic Rate in honeybees 
+subtitle: Respirometry 
+author: Julian Cassano
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+date: "2020-08-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: In this project we measure metabolic rate 
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+  url: https://github.com/jscassano/FMR_Analysis_22.git
 tags:
-- hugo-site
-title: Bakeoff
+---
+![FMR_example](FRM_example.png)
 ---
 
-![Formspree Logo](formspree-logo.png)
+### How do we measure metabolic rate in an organism?
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+Metabolic rate is considered a fundamental feature of all living organisms and at CSU's Honeybee Behavior lab, I utilize flow-through respirometry to quantitatively measure a honeybee's metabolic rate. This mechanism allows us to accurately measure how much carbon dioxide a bee emits when it performs different behaviors. In a nutshell, we measure how hard these bees are breathing. 
 
----
+This is made possible by first using a FoxBox respirometry setup (Sable Systems) that controlled outflow and inflow of air into a closed system containing our honeybee. We then use ExpeData software to accurately measure the amount of carbon dioxide produced by this bee and plot it on a time axis. 
 
-### Functional Form
+From this data, we carefully monitor and record various behaviors the bee is exhibiting such as flying and resting. When I pair this with carbon dioxide output data (VCO2) I use R studio to calculate a Flight Metabolic Rate (FMR) and a Resting Metabolic Rate (RMR) for each individual. 
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
