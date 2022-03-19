@@ -5,7 +5,7 @@ author: Julian Cassano
 categories:
 date: "2020-08-01"
 draft: false
-excerpt: In this project we measure metabolic rate 
+excerpt: In this project I use cutting edge methods to quantitatively measure metabolic rate for honeybee individuals.
 layout: single
 links:
 - icon: github
