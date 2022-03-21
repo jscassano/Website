@@ -14,8 +14,8 @@ links:
   url: https://github.com/jscassano/FMR_Analysis_22.git
 tags:
 ---
+How do we measure metabolic rate in an organism?
 ---
-### How do we measure metabolic rate in an organism?
 ![FMR_example](/img/FMR_example.jpg)
 Metabolic rate is considered a fundamental feature of all living organisms and at CSU's Honeybee Behavior lab, I utilize flow-through respirometry to quantitatively measure a honeybee's metabolic rate. This mechanism allows us to accurately measure how much carbon dioxide a bee emits when it performs different behaviors. In a nutshell, we measure how hard these bees are breathing. 
 
