@@ -14,7 +14,7 @@ links:
   url: https://github.com/jscassano/FMR_Analysis_22.git
 tags:
 ---
-![FMR_example](FRM_example.png)
+![FMR_example](static/FRM_example.png)
 ---
 
 ### How do we measure metabolic rate in an organism?
