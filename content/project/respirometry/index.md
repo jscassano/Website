@@ -14,11 +14,9 @@ links:
   url: https://github.com/jscassano/FMR_Analysis_22.git
 tags:
 ---
-![FMR_example](static/FRM_example.png)
 ---
-
 ### How do we measure metabolic rate in an organism?
-
+![FMR_example](/img/FMR_example.jpg)
 Metabolic rate is considered a fundamental feature of all living organisms and at CSU's Honeybee Behavior lab, I utilize flow-through respirometry to quantitatively measure a honeybee's metabolic rate. This mechanism allows us to accurately measure how much carbon dioxide a bee emits when it performs different behaviors. In a nutshell, we measure how hard these bees are breathing. 
 
 This is made possible by first using a FoxBox respirometry setup (Sable Systems) that controlled outflow and inflow of air into a closed system containing our honeybee. We then use ExpeData software to accurately measure the amount of carbon dioxide produced by this bee and plot it on a time axis. 
