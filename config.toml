@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "My website."
   favicon = "/img/favicon.ico"
-  logo = "/img/Bee-Hexagon.png" #top left
+  logo = "/img/CRbee_hex.png" #top left
   mainSections = ["blog", "project", "talk"] #idk
   navallcaps = true
   # show/hide social icons in site header & footer
