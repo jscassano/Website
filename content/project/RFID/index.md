@@ -1,8 +1,7 @@
 ---
 title: Automated Monitoring Using Radio Frequency Identification (RFID)
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
-author: Eric Anderson
+subtitle: "Bees with backpacks"
+author: Julian Cassano
 excerpt: At the Honeybee Behavior Lab, we use automated monitoring to study honeybee foraging behavior. I often refer to this project as "bees with backpacks" because I essentially I equip my forager with high-tech backpacks that allow me to monitor them exiting and entering the hive. 
 categories:
 - Theme Features
