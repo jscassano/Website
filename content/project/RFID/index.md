@@ -7,11 +7,9 @@ categories:
 - Theme Features
 - R
 - package
-date: "2019-07-03"
+date: "2021"
 draft: false
-
 layout: single
-
 tags:
 - hugo-site
 
