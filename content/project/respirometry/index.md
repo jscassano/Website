@@ -5,7 +5,7 @@ author: Julian Cassano
 categories:
 date: "2020-08-01"
 draft: false
-excerpt: In this project I use cutting edge methods to quantitatively measure metabolic rate for honeybee individuals.
+excerpt: In this project I use cutting edge methods to quantitatively measure metabolic rate in honeybees. This project combines respirometry with behavioral observations to measure multiple varients of metabolic rate in individual organisms.
 layout: single
 links:
 - icon: github
