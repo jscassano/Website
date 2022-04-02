@@ -1,5 +1,5 @@
 ---
-title: Solving an energetic foraging model
+title: Solving an energetic foraging model - COMING SOON
 subtitle: "coming soon"
 excerpt: 
 author: Julian Cassano
