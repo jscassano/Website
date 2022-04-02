@@ -11,13 +11,16 @@ date: "2021"
 draft: false
 layout: single
 tags:
-- hugo-site
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/jscassano/FMR_Analysis_22.git
 
 ---
-
-![Tachyons Logo Script](tachyons-logo-script.png)
-
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
-
+Measuring honeybee foraging behavior using automated monitoring. 
 ---
+![FMR_example](/img/Foraging1.jpg)
+
+
 
