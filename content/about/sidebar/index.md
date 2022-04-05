@@ -8,12 +8,12 @@ audio_link_label:  # leave blank to exclude
 link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
 
+- name: Honeybee Behavior Lab
+  url: https://socialbehaviorlab.colostate.edu/group-members/
 - name: Graduate Degree Program in Ecology
   url: https://ecology.colostate.edu/
 - name: Sustainable and Ecological Education Foundation (SEEd)
   url: http://eco-ed.org/
-- name: Yerba Cha
-  url: https://yerbacha.com/
 ---
 
 ** index doesn't contain a body, just front matter above.
