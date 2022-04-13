@@ -120,16 +120,16 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+  #[[menu.header]]
+    #name = "Talks"
+    #title = "Talks"
+    #url = "/talk/"
+    #weight = 4
   [[menu.header]]
     name = "Contact"
     title = "How to contact me"
     url = "/contact/"
-    weight = 5
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]
