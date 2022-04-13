@@ -1,6 +1,6 @@
 ---
 title: My projects
-description: These projects highlight my research and educational endeavors
+description: These projects highlight my research and educational endeavors. If you would like more info feel free to email me from the "contact" page. 
 layout: list
 author: Julian Cassano
 cascade:
