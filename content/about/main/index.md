@@ -25,9 +25,8 @@ intro: |
     
     <i class="fas fa-graduation-cap pr2"></i> [Study Abroad - Tropical Biodiversity and Conservation](https://uceap.universityofcalifornia.edu/programs/tropical-biology-and-conservation)  &#8729;
     Monteverde Institute, Costa Rica  &#8729;  2017
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+show_outro: F
+outro:
 ---
 
 ** index doesn't contain a body, just front matter above.

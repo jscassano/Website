@@ -2,7 +2,7 @@
 title: My projects
 description: These projects highlight my research and educational endeavors
 layout: list
-author: 
+author: Julian Cassano
 cascade:
   show_author_byline: true
   show_comments: false

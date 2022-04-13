@@ -33,7 +33,7 @@ enableEmoji = true
   description = "My website."
   favicon = "/img/CRbee_hex.png"
   logo = "/img/CRbee_hex.png" #top left
-  mainSections = ["blog", "project", "talk"] #idk
+  mainSections = ["project"] #idk #'talks'
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/home_pic.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "cassano.julian"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
