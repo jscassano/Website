@@ -14,7 +14,7 @@ links:
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/jscassano/FMR_Analysis_2020.git
+  url: https://github.com/jscassano/RFID_Analysis_2020
 
 ---
 A glimpse into the busy lives bees!
